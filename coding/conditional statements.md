@@ -26,4 +26,4 @@ both check for equality but
 
 # Reference
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Intermediate JS|Intermediate JS]]
+[[Intermediate JS|Intermediate JS]]

@@ -20,5 +20,5 @@ helps to combine both tools.
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/CSS Grid|CSS Grid]]
+[[CSS Grid|CSS Grid]]
 [[CSS Flexbox]] 

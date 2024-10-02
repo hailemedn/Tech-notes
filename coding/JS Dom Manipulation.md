@@ -30,4 +30,4 @@ Best practice is to put it at the end inside of the body tag.
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Intermediate JS|Intermediate JS]]
+[[Intermediate JS|Intermediate JS]]

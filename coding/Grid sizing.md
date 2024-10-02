@@ -62,4 +62,4 @@ from left to right and from top to bottom
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/CSS Grid|CSS Grid]] 
+[[CSS Grid|CSS Grid]] 

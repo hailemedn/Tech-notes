@@ -15,4 +15,4 @@ for loops     -> iterate by defining the amount of times
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Intermediate JS|Intermediate JS]]
+[[Intermediate JS|Intermediate JS]]

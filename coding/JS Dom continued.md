@@ -42,9 +42,18 @@ tags: [[frontend]] [[web]] [[js]]
 - get element or query selector
 - can use both
 - query selector and query selector all allow for more complex query's and are widely used.
+
+`// properties(fontSize) has similar names to the ones we use in css`
+`// no dash and use camelCasing.`
+`// values (10px) have to be in a string.
+`// using this kind of code is not good practice (using js for styling),   // we should use css` [[Separation of concern]]
+`document.querySelector("").style.fontSize = "10px"`
+
+
+
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Intermediate JS|Intermediate JS]]
-[[Coding/JS Dom Manipulation|JS Dom Manipulation]]
-[[Coding/Document Object Model|Document Object Model]]
+[[Intermediate JS|Intermediate JS]]
+[[JS Dom Manipulation|JS Dom Manipulation]]
+[[Document Object Model|Document Object Model]]

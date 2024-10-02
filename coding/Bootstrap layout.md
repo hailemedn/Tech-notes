@@ -1,4 +1,4 @@
-ff09.19.24
+09.19.24
 tags: [[css]] [[frontend]] [[web]] 
 
 # Bootstrap components, spacing, Dark mode
@@ -30,4 +30,4 @@ y - top & bottom
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Bootstrap|Bootstrap]] 
+[[Bootstrap|Bootstrap]] 

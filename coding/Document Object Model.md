@@ -35,5 +35,5 @@ objects inside the DOM can have
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Intermediate JS|Intermediate JS]]
-[[Coding/JS Dom Manipulation|JS Dom Manipulation]]
+[[Intermediate JS|Intermediate JS]]
+[[JS Dom Manipulation|JS Dom Manipulation]]

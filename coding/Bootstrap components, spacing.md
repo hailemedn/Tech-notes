@@ -30,4 +30,4 @@ y - top & bottom
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Bootstrap|Bootstrap]] 
+[[Bootstrap|Bootstrap]] 

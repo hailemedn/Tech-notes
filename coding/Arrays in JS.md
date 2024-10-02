@@ -20,4 +20,4 @@ tags: [[frontend]] [[web]] [[js]]
 # Reference
 
 [[The Complete 2023 Web Development Bootcamp]]
-[[Coding/Intermediate JS|Intermediate JS]]
+[[Intermediate JS|Intermediate JS]]
