@@ -1,0 +1,8 @@
+- noc?
+- noc activities?
+- domains and what they do?
+- cs vs ps
+- General architecture
+- PS architecture
+- ps kpi's 
+- ps nodes

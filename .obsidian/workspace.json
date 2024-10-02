@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "5558c0d9cda63bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "79b3cba72793d567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbffd482b3bc336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/CSS Display property.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b5179ede77cf781",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75d47e47037a560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73c31a94a85e9030",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "b16e9146029aae59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3f681df72b7d6f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "afbb5abdb7e8cee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9197aa4031c68c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5e69ad56e10c114",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding/CSS Display property.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2d04482e77df0fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding/CSS Display property.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16a0e85e96bdd646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63789163113de9d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coding/CSS Display property.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fbffd482b3bc336",
+  "lastOpenFiles": [
+    "Coding/CSS Flexbox.md",
+    "Coding/CSS Frameworks.md",
+    "Coding/CSS Display property.md",
+    "Coding/Bootstrap.md",
+    "Coding/Bootstrap layout.md",
+    "Coding/Bootstrap components, spacing.md",
+    "Coding/Arrays in JS.md",
+    "Coding/JS Dom continued.md",
+    "coding/Arrays in JS.md",
+    "Coding/CSS External Frameworks.md",
+    "Coding/Document Object Model.md",
+    "coding/JS Dom continued.md",
+    "Attachments/Pasted image 20240928142159.png",
+    "coding/Document Object Model.md",
+    "Coding/JS Dom Manipulation.md",
+    "Coding/flexbox vs grid.md",
+    "Coding/Grid sizing.md",
+    "Coding/Grid placement.md",
+    "coding/JS Dom Manipulation.md",
+    "coding/loops in JS.md",
+    "Coding/loops in JS.md",
+    "coding/conditional statements.md",
+    "Coding/Intermediate JS.md",
+    "Coding/conditional statements.md",
+    "Coding/JavaScript Intro.md",
+    "Coding/JS Variables.md",
+    "Coding/JS basics.md",
+    "Untitled.canvas",
+    "Attachments/Pasted image 20240919054032.png",
+    "Attachments/Pasted image 20240919053202.png",
+    "Attachments/Pasted image 20240917215915.png",
+    "Attachments/Pasted image 20240917213614.png",
+    "Attachments/Pasted image 20240917213518.png",
+    "Attachments/Pasted image 20240917211351.png",
+    "Attachments/Pasted image 20240917202321.png",
+    "Attachments/Pasted image 20240917202305.png",
+    "Attachments/Pasted image 20240917202247.png",
+    "desktop.ini",
+    "Source/Courses",
+    "Source/YouTube",
+    "Infra",
+    "Coding",
+    "Attachments",
+    "Resources",
+    "Projects",
+    "05 Main",
+    "01 Indexes/desktop.ini"
+  ]
+}
