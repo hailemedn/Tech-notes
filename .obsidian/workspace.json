@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/new note for testing.md",
+                "file": "coding/adding github remote access using the terminal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/new note for testing.md",
+                "file": "coding/adding github remote access using the terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/new note for testing.md",
+                "file": "coding/adding github remote access using the terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/new note for testing.md"
+                "file": "coding/adding github remote access using the terminal.md"
               }
             }
           }
@@ -163,8 +163,10 @@
   },
   "active": "ea76aecaa8b10b84",
   "lastOpenFiles": [
+    "tags/github.md",
+    "coding/adding github remote access using the terminal.md",
     "coding/JS Dom continued 2.md",
-    "coding/new note for testing.md",
+    "coding/giving github remote access to.md",
     "infra/gn links.md",
     "coding/test file.md",
     "templates/full note.md",
@@ -188,8 +190,6 @@
     "coding/CSS Frameworks.md",
     "Coding/CSS External Frameworks.md",
     "attachments/Pasted image 20240928142159.png",
-    "coding/Grid placement.md",
-    "coding/Intermediate JS.md",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
     "attachments/Pasted image 20240919053202.png",
