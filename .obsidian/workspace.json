@@ -24,13 +24,8 @@
             "id": "ea76aecaa8b10b84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/adding github remote access using the terminal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/adding github remote access using the terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/adding github remote access using the terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "coding/adding github remote access using the terminal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,10 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea76aecaa8b10b84",
+  "active": "73c31a94a85e9030",
   "lastOpenFiles": [
-    "tags/github.md",
+    "infra/linux mint not booting after successful installation.md",
+    "tags/linux.md",
     "coding/adding github remote access using the terminal.md",
+    "tags/github.md",
     "coding/JS Dom continued 2.md",
     "coding/giving github remote access to.md",
     "infra/gn links.md",
@@ -187,8 +180,6 @@
     "coding/CSS float and clear properties.md",
     "coding/CSS Display property.md",
     "coding/CSS Flexbox.md",
-    "coding/CSS Frameworks.md",
-    "Coding/CSS External Frameworks.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
