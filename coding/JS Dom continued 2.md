@@ -22,6 +22,17 @@ tags: [[frontend]] [[web]] [[js]]
 `// capture and modify only the text element.`
 `document.querySelector('h1').textContent = ""`
 
+## Change attributes value
+`// returns all attributes related with a tag.`
+`document.querySelector('a').attributes`
+
+`// returns the value assigned to href attribute`
+`document.querySelector('a').getAttribute('href')`
+
+`// changes the href attribute.`
+`document.querySelector('a').setAttribute('href', 'www.ggoel.com')
+
+
 
 
 # Reference

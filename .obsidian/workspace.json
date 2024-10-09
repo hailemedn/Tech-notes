@@ -24,8 +24,13 @@
             "id": "ea76aecaa8b10b84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "infra/OS command line, commands.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -75,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "infra/OS command line, commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "infra/OS command line, commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "infra/OS command line, commands.md"
+              }
             }
           }
         ]
@@ -152,18 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73c31a94a85e9030",
+  "active": "ea76aecaa8b10b84",
   "lastOpenFiles": [
+    "coding/JQuery Event listners.md",
+    "infra/OS command line, commands.md",
+    "coding/JQuery manipulate attributes.md",
+    "coding/JQuery, JS Library.md",
+    "coding/JS Dom continued 2.md",
+    "coding/JS Keypress event.md",
+    "coding/JS Objects.md",
+    "coding/Advanced JS and Dom manipulation.md",
+    "coding/JavaScript Intro.md",
+    "coding/JS Dom continued.md",
     "infra/linux mint not booting after successful installation.md",
     "tags/linux.md",
     "coding/adding github remote access using the terminal.md",
     "tags/github.md",
-    "coding/JS Dom continued 2.md",
     "coding/giving github remote access to.md",
     "infra/gn links.md",
     "coding/test file.md",
     "templates/full note.md",
-    "coding/JS Dom continued.md",
     "coding/Separation of concern.md",
     "coding/JS basics.md",
     "coding/loops in JS.md",
@@ -172,14 +190,6 @@
     "coding/conditional statements.md",
     "coding/flexbox vs grid.md",
     "coding/Arrays in JS.md",
-    "coding/Bootstrap.md",
-    "coding/Bootstrap components, spacing.md",
-    "coding/Grid sizing.md",
-    "coding/Document Object Model.md",
-    "coding/updating a variable in Android.md",
-    "coding/CSS float and clear properties.md",
-    "coding/CSS Display property.md",
-    "coding/CSS Flexbox.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
