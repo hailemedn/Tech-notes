@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "command",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,11 +165,11 @@
   "active": "ea76aecaa8b10b84",
   "lastOpenFiles": [
     "coding/JQuery Event listners.md",
+    "coding/JS Keypress event.md",
     "infra/OS command line, commands.md",
     "coding/JQuery manipulate attributes.md",
     "coding/JQuery, JS Library.md",
     "coding/JS Dom continued 2.md",
-    "coding/JS Keypress event.md",
     "coding/JS Objects.md",
     "coding/Advanced JS and Dom manipulation.md",
     "coding/JavaScript Intro.md",

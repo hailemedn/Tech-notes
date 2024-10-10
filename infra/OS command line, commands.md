@@ -62,8 +62,8 @@ Linux - similar to windows 
 Linux 
 - `Sudo su` -  Makes us a root user 
 - You can view who has access to run sudo by viewing the /etc/group.  
-- This is also how you view memberships for all groups. 
-From <[https://www.coursera.org/learn/os-power-user/lecture/ke9fl/linux-users-superuser-and-beyond](https://www.coursera.org/learn/os-power-user/lecture/ke9fl/linux-users-superuser-and-beyond)>  
+- This is also how you view memberships for all groups.   
+From <[https://www.coursera.org/learn/os-power-user/lecture/ke9fl/linux-users-superuser-and-beyond](https://www.coursera.org/learn/os-power-user/lecture/ke9fl/linux-users-superuser-and-beyond)>    
 
 
 
@@ -100,97 +100,75 @@ adding new users using cli in W
 - Iist folders permission is an alias for read and write permission, If you tick one the other will be automatically ticked also 
     
 - Modify is an umbrella 
+- 
+- `Icacls - 
     
-- Icacls - 
-    
-- Icacls /? 
-    
+- `Icacls /? 
     - help  
         
 
-Software distributions 
+## Software distributions 
 
 Linux software packages 
+- Debian package - ubuntu 
 
-Debian package - ubuntu 
+To install a package     
+`Sudo dpkg - I filename   
 
-To install a package 
+To remove     
+`Sudo dpkg -r filename   
 
-Sudo dpkg - I filename 
+To list install pkgs   
+`Dpkg -l    
+`Dpkg     
 
-To remove 
+Archive using powershell   
+`Compress-archive -path paththefilesin paththearchivewillbe   
 
-Sudo dpkg -r filename 
+Archive in linux   
+First install 7z   
 
-To list install pkgs 
+To extract   
+`7z e filenametoextract   
 
-Dpkg -l  
+Parted command?   
 
-Dpkg   
+View disk usage of certain directory in linux   
+`Du -h   
 
-Archive using powershell 
+To view free space in ur entire system in linux, the h flag specifies to present in human readable form   
+`Df -h   
 
-Compress-archive -path paththefilesin paththearchivewillbe 
+If you want to check the status of the self-healing process on your computer, you can open up an administrative command prompt and use the fsutil tool like this.   
+From <[https://www.coursera.org/learn/os-power-user/lecture/aXBeM/windows-filesystem-repair](https://www.coursera.org/learn/os-power-user/lecture/aXBeM/windows-filesystem-repair)>    
 
-Archive in linux 
+In Linux, you can view block devices and file systems attached to your system using the lsblk command.   
+From <[https://googlecoursera.qwiklabs.com/focuses/31883177?parent=lti_session](https://googlecoursera.qwiklabs.com/focuses/31883177?parent=lti_session)>    
 
-First install 7z 
+## Processes 
+Terminate a process in powershell   
+`taskkill /pid pidnumber   
 
-To extract 
+terminate multiple processes   
+`taskkill /pid 1230 /pid 1241 /pid 1253   
 
-7z e filenametoextract 
+more on taskkill   
+[https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill)   
 
-Parted command? 
+show processes running on linux   
+`ps -x   
 
-View disk usage of certain directory in linux 
+show full processees   
+`ps -ef   
 
-Du -h 
+lists process with the name chrome     
+`ps -ef | grep chrome   
 
-To view free space in ur entire system in linux, the h flag specifies to present in human readable form 
+kill a process in linux   
+`sudo kill pidno   
 
-Df -h 
-
-If you want to check the status of the self-healing process on your computer, you can open up an administrative command prompt and use the fsutil tool like this. 
-
-From <[https://www.coursera.org/learn/os-power-user/lecture/aXBeM/windows-filesystem-repair](https://www.coursera.org/learn/os-power-user/lecture/aXBeM/windows-filesystem-repair)>  
-
-In Linux, you can view block devices and file systems attached to your system using the lsblk command. 
-
-From <[https://googlecoursera.qwiklabs.com/focuses/31883177?parent=lti_session](https://googlecoursera.qwiklabs.com/focuses/31883177?parent=lti_session)>  
-
-Processes 
-
-Terminate a process in powershell 
-
-taskkill /pid pidnumber 
-
-terminate multiple processes 
-
-taskkill /pid 1230 /pid 1241 /pid 1253 
-
-more on taskkill 
-
-[https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill) 
-
-show processes running on linux 
-
-ps -x 
-
-show full processees 
-
-ps -ef 
-
-lists process with the name chrome 
-
-ps -ef | grep chrome 
-
-kill a process in linux 
-
-sudo kill pidno 
-
-list processes in powershell 
-
-get-process
+list processes in powershell   
+`get-process  
 
 
 # Reference
