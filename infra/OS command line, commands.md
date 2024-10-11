@@ -1,5 +1,5 @@
 24.10.08  20.47
-tags: [[linux]] [[web]] 
+tags: [[linux]] [[web]] [[powershell]]
 
 # OS command line, commands
 
