@@ -13,6 +13,18 @@ tags: [[web]] [[backend]] [[js]]
 	- order doesn't matter as long as they are separated by &
 
 - JSON - JavaScript Object Notation
+- formats for getting data from API'd
+	- JSON - favored
+	- XML
+	- HTML
+
+
+### Side note
+- There can only be one res.send().
+- but there can be multiple res.write()
+	 `res.write("One line")`  
+	 `res.write("another line")`
+	 `res.send()`
 
 # Reference
 
