@@ -1,5 +1,5 @@
 24.10.11  21.59
-tags: [[web]] [[backend]] [[js]]
+tags: [[web]] [[backend]] [[api]]
 
 # API
 - Application programming interface
