@@ -28,7 +28,7 @@ tags: [[web]] [[git,github]]
 
 ### add to staging area, to the local git repo and the remote repo with one command line
 - `git commit -am 'commit message' -u origin  // isn't working for me ` or
-- `git add . ; git commit -m 'commit message' -u origin`
+- `git add . ; git commit -m 'commit message' ; git push  // worked`
 
 ## cloning
 - `git clone repository`  copy's from remote to working directory
