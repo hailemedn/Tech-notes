@@ -8,31 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "web",
+      "color": {
+        "a": 1,
+        "rgb": 13555292
+      }
+    },
+    {
       "query": "telecom",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 15472728
       }
     },
     {
-      "query": "css",
+      "query": "android",
       "color": {
         "a": 1,
-        "rgb": 7935
-      }
-    },
-    {
-      "query": "js",
-      "color": {
-        "a": 1,
-        "rgb": 15330562
-      }
-    },
-    {
-      "query": "android-dev",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
+        "rgb": 1900794
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.37384700366619183,
+  "scale": 0.2624304716308743,
   "close": false
 }

@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Database intro.md",
+                "file": "coding/Git, Github - version control.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Database intro.md",
+                "file": "coding/Git, Github - version control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Database intro.md",
+                "file": "coding/Git, Github - version control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Database intro.md"
+                "file": "coding/Git, Github - version control.md"
               }
             }
           }
@@ -203,8 +202,9 @@
   },
   "active": "f17333d80cb39443",
   "lastOpenFiles": [
-    "tags/database.md",
+    "tags/technical-interview.md",
     "coding/Database intro.md",
+    "tags/database.md",
     "coding/Git, Github - version control.md",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",
@@ -232,7 +232,6 @@
     "coding/JavaScript Intro.md",
     "infra/linux mint not booting after successful installation.md",
     "tags/linux.md",
-    "coding/adding github remote access using the terminal.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",

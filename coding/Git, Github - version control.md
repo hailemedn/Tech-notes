@@ -19,6 +19,13 @@ tags: [[web]] [[git,github]]
 ### git rm --cached -r
 - remove from staging area.
 
+### view current remote repo
+- `git remote -v`
+### remove current remote repo
+- `git remote rm origin`
+### add a remote repo
+- `git remote add origin <repo>`
+
 ## cloning
 - `git clone repository`  copy's from remote to working directory
 
