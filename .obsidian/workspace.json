@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Git, Github - version control.md",
+                "file": "coding/Authentication & Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Git, Github - version control.md",
+                "file": "coding/Authentication & Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Git, Github - version control.md",
+                "file": "coding/Authentication & Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Git, Github - version control.md"
+                "file": "coding/Authentication & Security.md"
               }
             }
           }
@@ -202,10 +202,11 @@
   },
   "active": "f17333d80cb39443",
   "lastOpenFiles": [
+    "coding/Git, Github - version control.md",
+    "coding/Authentication & Security.md",
     "tags/technical-interview.md",
     "coding/Database intro.md",
     "tags/database.md",
-    "coding/Git, Github - version control.md",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",
     "attachments/Pasted image 20241013021500.png",
@@ -231,7 +232,6 @@
     "coding/Advanced JS and Dom manipulation.md",
     "coding/JavaScript Intro.md",
     "infra/linux mint not booting after successful installation.md",
-    "tags/linux.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
