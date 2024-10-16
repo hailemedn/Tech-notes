@@ -10,6 +10,7 @@ tags: [[web]] [[backend]] [[mongodb]] [[error]]
 
 ## tried
 - look for a process using port :27017 and kill the process, but there were no process running on that port
+- suggested by Gemini.
 
 ## what worked
 - first i looked at the log files
