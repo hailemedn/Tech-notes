@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Authentication & Security.md",
+                "file": "coding/unable to start mongodb.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55d1eb588c671594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/unable to start mongodb.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Authentication & Security.md",
+                "file": "coding/unable to start mongodb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Authentication & Security.md",
+                "file": "coding/unable to start mongodb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Authentication & Security.md"
+                "file": "coding/unable to start mongodb.md"
               }
             }
           }
@@ -200,10 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f17333d80cb39443",
+  "active": "55d1eb588c671594",
   "lastOpenFiles": [
-    "coding/Git, Github - version control.md",
+    "tags/mongodb.md",
+    "coding/unable to start mongodb.md",
     "coding/Authentication & Security.md",
+    "coding/Git, Github - version control.md",
     "tags/technical-interview.md",
     "coding/Database intro.md",
     "tags/database.md",
@@ -230,8 +245,6 @@
     "coding/JS Dom continued 2.md",
     "coding/JS Objects.md",
     "coding/Advanced JS and Dom manipulation.md",
-    "coding/JavaScript Intro.md",
-    "infra/linux mint not booting after successful installation.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
