@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "JS Dom continued"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "OS command line, commands"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "API Intro"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Database intro"
             }
           },
           {
@@ -69,7 +77,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "unable to start mongodb"
             }
           },
           {
@@ -78,15 +88,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/unable to start mongodb.md",
+                "file": "coding/Authentication & Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Authentication & Security"
+            }
+          },
+          {
+            "id": "955aaa73a83d58c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Level one authentication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level one authentication"
+            }
+          },
+          {
+            "id": "b2d022484ac17989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Level two authentication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level two authentication"
+            }
+          },
+          {
+            "id": "b10b38caa3f96992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/using environment variables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "using environment variables"
+            }
+          },
+          {
+            "id": "488d34c9c2422b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Level three authentication - hashing passwords.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level three authentication - hashing passwords"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -105,8 +177,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,7 +195,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -129,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -152,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/unable to start mongodb.md",
+                "file": "coding/Level three authentication - hashing passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +238,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Level three authentication - hashing passwords"
             }
           },
           {
@@ -169,10 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/unable to start mongodb.md",
+                "file": "coding/Level three authentication - hashing passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Level three authentication - hashing passwords"
             }
           },
           {
@@ -183,7 +265,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -192,8 +276,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/unable to start mongodb.md"
-              }
+                "file": "coding/Level three authentication - hashing passwords.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Level three authentication - hashing passwords"
             }
           }
         ]
@@ -213,45 +299,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55d1eb588c671594",
+  "active": "488d34c9c2422b74",
   "lastOpenFiles": [
-    "tags/mongodb.md",
-    "coding/unable to start mongodb.md",
-    "coding/Authentication & Security.md",
+    "coding/using environment variables.md",
+    "coding/Level three authentication - hashing passwords.md",
+    "coding/ Express.md",
     "coding/Git, Github - version control.md",
-    "tags/technical-interview.md",
+    "coding/Authentication & Security.md",
+    "coding/unable to start mongodb.md",
+    "coding/Level one authentication.md",
+    "coding/Level two authentication.md",
+    "coding/Node.js.md",
+    "coding/API Intro.md",
     "coding/Database intro.md",
+    "tags/nodejs.md",
+    "tags/security.md",
+    "attachments/Pasted image 20241018180133.png",
+    "tags/mongodb.md",
+    "tags/technical-interview.md",
     "tags/database.md",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",
     "attachments/Pasted image 20241013021500.png",
     "tags/git,github.md",
-    "coding/API Intro.md",
     "tags/api.md",
     "attachments/Pasted image 20241011224900.png",
     "coding/JS Dom Manipulation.md",
     "coding/Node REPL.md",
-    "coding/ Express.md",
-    "coding/Node.js.md",
     "tags/web.md",
     "tags/backend.md",
     "coding/JS Keypress event.md",
     "coding/JS Dom continued.md",
     "tags/powershell.md",
     "infra/OS command line, commands.md",
-    "coding/JQuery Event listners.md",
-    "coding/JQuery manipulate attributes.md",
-    "coding/JQuery, JS Library.md",
-    "coding/JS Dom continued 2.md",
-    "coding/JS Objects.md",
-    "coding/Advanced JS and Dom manipulation.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
     "attachments/Pasted image 20240919053202.png",
     "attachments/Pasted image 20240917215915.png",
     "attachments/Pasted image 20240917213614.png",
-    "attachments/Pasted image 20240917213518.png",
     "desktop.ini",
     "source/Courses",
     "source/YouTube",
