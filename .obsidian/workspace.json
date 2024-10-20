@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Level three authentication - hashing passwords.md",
+                "file": "coding/Level four authentication - salting and hashing passwords with bcrypt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level three authentication - hashing passwords"
+              "title": "Level four authentication - salting and hashing passwords with bcrypt"
             }
           }
         ],
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Level three authentication - hashing passwords.md",
+                "file": "templates/full note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Level three authentication - hashing passwords"
+              "title": "Backlinks for full note"
             }
           },
           {
@@ -249,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Level three authentication - hashing passwords.md",
+                "file": "templates/full note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Level three authentication - hashing passwords"
+              "title": "Outgoing links from full note"
             }
           },
           {
@@ -276,10 +276,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Level three authentication - hashing passwords.md"
+                "file": "templates/full note.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Level three authentication - hashing passwords"
+              "title": "Outline of full note"
             }
           }
         ]
@@ -301,8 +301,14 @@
   },
   "active": "488d34c9c2422b74",
   "lastOpenFiles": [
-    "coding/using environment variables.md",
+    "coding/Hacking 101.md",
+    "coding/Level four authentication - salting and hashing passwords with bcrypt.md",
+    "tags/js.md",
+    "tags/nodejs.md",
     "coding/Level three authentication - hashing passwords.md",
+    "templates/full note.md",
+    "coding/Grid placement.md",
+    "coding/using environment variables.md",
     "coding/ Express.md",
     "coding/Git, Github - version control.md",
     "coding/Authentication & Security.md",
@@ -312,7 +318,6 @@
     "coding/Node.js.md",
     "coding/API Intro.md",
     "coding/Database intro.md",
-    "tags/nodejs.md",
     "tags/security.md",
     "attachments/Pasted image 20241018180133.png",
     "tags/mongodb.md",
@@ -327,11 +332,6 @@
     "coding/JS Dom Manipulation.md",
     "coding/Node REPL.md",
     "tags/web.md",
-    "tags/backend.md",
-    "coding/JS Keypress event.md",
-    "coding/JS Dom continued.md",
-    "tags/powershell.md",
-    "infra/OS command line, commands.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",

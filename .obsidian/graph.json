@@ -8,24 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "web",
+      "query": "frontend",
       "color": {
         "a": 1,
         "rgb": 13555292
       }
     },
     {
-      "query": "telecom",
+      "query": "error",
       "color": {
         "a": 1,
         "rgb": 15472728
       }
     },
     {
-      "query": "android",
+      "query": "security",
       "color": {
         "a": 1,
         "rgb": 1900794
+      }
+    },
+    {
+      "query": "android",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "backend",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "linux",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "telecom",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -35,10 +63,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.442708333333333,
+  "repelStrength": 8.95833333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.11117853684412349,
+  "linkDistance": 204,
+  "scale": 0.2198742678093866,
   "close": false
 }
