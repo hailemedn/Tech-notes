@@ -1,0 +1,3 @@
+- git hub remote access using ssh
+- async / promise then asynchronous JS 
+- vim

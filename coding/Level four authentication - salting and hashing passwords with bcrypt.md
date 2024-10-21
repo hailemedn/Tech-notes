@@ -19,9 +19,11 @@ hash generated: generatedhash
 2nd round salting: generatedhash1234jljd
 
 ## usage
+```
 const bcrypt = require("bcrypt")
 
 const saltRounds = 10;
+```
 
 
 ### to hash a password
@@ -39,14 +41,14 @@ const saltRounds = 10;
 
 
 ### to check a password
-`app.post("/login", async (req, res) => {   `
-	`const username = req.body.username; `
-	`const password = req.body.password; `  
-	`const foundUser = await User.findOne({ email: username });  `
-	`if (foundUser) {  `
+`app.post("/login", async (req, res) => {   `  
+	`const username = req.body.username; `  
+	`const password = req.body.password; `    
+	`const foundUser = await User.findOne({ email: username });  `  
+	`if (foundUser) {  `  
 
 		`// compare the password`  
-		`const match = bcrypt.compare(password, foundUser.password)`  
+  		`const match = bcrypt.compare(password, foundUser.password)`  
 		`if(match) {  `
 		`res.render("secrets")  `
 		`} else {`
@@ -57,6 +59,30 @@ const saltRounds = 10;
 		`console.log();  `
 	`}  `
 `})`  
+
+
+
+```js
+async function main() {
+  await mongoose.connect("mongodb://localhost:27017/userDB");
+
+  const userSchema = new mongoose.Schema({
+    email: String,
+    password: String,
+  });
+```
+
+
+---
+
+- [ ] task 
+
+
+
+
+
+
+
 
 
 
