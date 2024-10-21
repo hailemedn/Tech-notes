@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/full note.md",
+                "file": "coding/Level 5 - Cookies and Sessions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "full note"
+              "title": "Level 5 - Cookies and Sessions"
             }
           }
         ],
@@ -301,7 +301,12 @@
   },
   "active": "488d34c9c2422b74",
   "lastOpenFiles": [
+    "templates/full note.md",
+    "coding/Level 5 - Cookies and Sessions.md",
     "coding/Level four authentication - salting and hashing passwords with bcrypt.md",
+    "coding/Hacking&nbsp101.md",
+    "coding/Hacking-101.md",
+    "coding/Hacking.md",
     "infra/OS command line, commands.md",
     "infra/Trouble Tickets (TT_s).md",
     "rough/web things to learn.md",
@@ -312,7 +317,6 @@
     "tags/js.md",
     "tags/nodejs.md",
     "coding/Level three authentication - hashing passwords.md",
-    "templates/full note.md",
     "coding/Grid placement.md",
     "coding/using environment variables.md",
     "coding/ Express.md",
@@ -324,13 +328,9 @@
     "coding/API Intro.md",
     "tags/security.md",
     "attachments/Pasted image 20241018180133.png",
-    "tags/mongodb.md",
-    "tags/technical-interview.md",
-    "tags/database.md",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",
     "attachments/Pasted image 20241013021500.png",
-    "tags/git,github.md",
     "attachments/Pasted image 20241011224900.png",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",

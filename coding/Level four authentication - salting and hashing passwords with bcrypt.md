@@ -1,5 +1,5 @@
 24.10.19  21.34  
-tags:[[web]] [[backend]] [[security]]
+tags:[[web]] [[backend]] [[security]]  
 
 # Level four authentication - salting and hashing passwords with bcrypt
 
