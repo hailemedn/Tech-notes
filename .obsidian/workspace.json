@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infra/Trouble Tickets (TT_s).md",
+                "file": "templates/full note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trouble Tickets (TT_s)"
+              "title": "full note"
             }
           }
         ],
@@ -302,6 +302,8 @@
   "active": "488d34c9c2422b74",
   "lastOpenFiles": [
     "coding/Level four authentication - salting and hashing passwords with bcrypt.md",
+    "infra/OS command line, commands.md",
+    "infra/Trouble Tickets (TT_s).md",
     "rough/web things to learn.md",
     "coding/unable to start mongodb.md",
     "coding/Database intro.md",
@@ -329,9 +331,7 @@
     "attachments/Pasted image 20241013023104.png",
     "attachments/Pasted image 20241013021500.png",
     "tags/git,github.md",
-    "tags/api.md",
     "attachments/Pasted image 20241011224900.png",
-    "coding/JS Dom Manipulation.md",
     "attachments/Pasted image 20240928142159.png",
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",

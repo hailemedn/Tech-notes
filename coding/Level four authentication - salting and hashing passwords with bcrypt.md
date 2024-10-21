@@ -19,63 +19,58 @@ hash generated: generatedhash
 2nd round salting: generatedhash1234jljd
 
 ## usage
-```
+```js
 const bcrypt = require("bcrypt")
-
 const saltRounds = 10;
 ```
 
 
 ### to hash a password
-`app.post("/register", async (req, res) => {`  
-	
-	`// generate the hash`  
-	`const hash = await bcrypt.hash(req.body.password, saltRounds);  `
-	`const newUser = new User({  `
-		`email: req.body.username,  `
-		`password: hash,  `
-	`});`  
-	`await newUser.save();`  
-	`res.render("secrets")  `
-`});  `
-
-
-### to check a password
-`app.post("/login", async (req, res) => {   `  
-	`const username = req.body.username; `  
-	`const password = req.body.password; `    
-	`const foundUser = await User.findOne({ email: username });  `  
-	`if (foundUser) {  `  
-
-		`// compare the password`  
-  		`const match = bcrypt.compare(password, foundUser.password)`  
-		`if(match) {  `
-		`res.render("secrets")  `
-		`} else {`
-		`res.send("wrong password")  `
-		`}`
-	`} else {  `
-		`res.send("Can't find the user.")  `
-		`console.log();  `
-	`}  `
-`})`  
-
-
-
 ```js
-async function main() {
-  await mongoose.connect("mongodb://localhost:27017/userDB");
+app.post("/register", async (req, res) => {
 
-  const userSchema = new mongoose.Schema({
-    email: String,
-    password: String,
+	// hash the password
+    const hash = await bcrypt.hash(req.body.password, saltRounds);
+
+    const newUser = new User({
+      email: req.body.username,
+      password: hash,
+    });
+
+    await newUser.save();
+    res.render("secrets");
   });
 ```
 
 
+### to check a password
+```js
+app.post("/login", async (req, res) => {
+    const username = req.body.username;
+    const password = req.body.password;
+
+    const foundUser = await User.findOne({ email: username });
+
+    if (foundUser) {
+	// check the password
+      const match = bcrypt.compare(password, foundUser.password);
+      if (match) {
+        res.render("secrets");
+      } else {
+        res.send("wrong password");
+      }
+    } else {
+      res.send("Can't find the user.");
+      console.log();
+    }
+  });
+```
+
+
+
 ---
 
-- [ ] task 
+
 
 
 
