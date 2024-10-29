@@ -22,6 +22,6 @@ when you log out the session ends and the cookie is destroyed.
 
  
 # Reference
- [[The Complete 2023 Web Development Bootcamp]]
+ [[The Complete 2023 Web Development Bootcamp]] 
  [[Authentication & Security]]
 

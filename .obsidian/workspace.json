@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Level 5 - Cookies and Sessions.md",
+                "file": "coding/Using passport.js to add cookies and sessions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 5 - Cookies and Sessions"
+              "title": "Using passport.js to add cookies and sessions"
             }
           }
         ],
@@ -301,18 +301,20 @@
   },
   "active": "488d34c9c2422b74",
   "lastOpenFiles": [
-    "templates/full note.md",
     "coding/Level 5 - Cookies and Sessions.md",
+    "coding/Using passport.js to add cookies and sessions.md",
     "coding/Level four authentication - salting and hashing passwords with bcrypt.md",
+    "rough/learnings roadmap.md",
+    "rough/web things to learn.md",
+    "rough/Infra temp map.md",
+    "templates/full note.md",
     "coding/Hacking&nbsp101.md",
     "coding/Hacking-101.md",
     "coding/Hacking.md",
     "infra/OS command line, commands.md",
     "infra/Trouble Tickets (TT_s).md",
-    "rough/web things to learn.md",
     "coding/unable to start mongodb.md",
     "coding/Database intro.md",
-    "rough/learnings roadmap.md",
     "coding/Hacking 101.md",
     "tags/js.md",
     "tags/nodejs.md",
@@ -325,8 +327,6 @@
     "coding/Level one authentication.md",
     "coding/Level two authentication.md",
     "coding/Node.js.md",
-    "coding/API Intro.md",
-    "tags/security.md",
     "attachments/Pasted image 20241018180133.png",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",

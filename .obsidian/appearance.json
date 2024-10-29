@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "textFontFamily": "Hack",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSize": 14
 }
