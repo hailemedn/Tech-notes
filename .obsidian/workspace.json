@@ -148,17 +148,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Using passport.js to add cookies and sessions.md",
+                "file": "coding/oAuth 2.0, how to implement signin with google, Level 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using passport.js to add cookies and sessions"
+              "title": "oAuth 2.0, how to implement signin with google, Level 6"
+            }
+          },
+          {
+            "id": "0f3e5381edaa4408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/oAuth 2.0, how to implement signin with google, Level 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "oAuth 2.0, how to implement signin with google, Level 6"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -189,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bcry",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200
   },
   "right": {
     "id": "afbb5abdb7e8cee0",
@@ -299,10 +314,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "488d34c9c2422b74",
+  "active": "0f3e5381edaa4408",
   "lastOpenFiles": [
-    "coding/Level 5 - Cookies and Sessions.md",
+    "coding/shortcut for prettier.md",
+    "tags/shorcut.md",
+    "coding/oAuth 2.0, how to implement signin with google, Level 6.md",
     "coding/Using passport.js to add cookies and sessions.md",
+    "coding/using environment variables.md",
+    "coding/Level 5 - Cookies and Sessions.md",
     "coding/Level four authentication - salting and hashing passwords with bcrypt.md",
     "rough/learnings roadmap.md",
     "rough/web things to learn.md",
@@ -320,13 +339,9 @@
     "tags/nodejs.md",
     "coding/Level three authentication - hashing passwords.md",
     "coding/Grid placement.md",
-    "coding/using environment variables.md",
     "coding/ Express.md",
     "coding/Git, Github - version control.md",
     "coding/Authentication & Security.md",
-    "coding/Level one authentication.md",
-    "coding/Level two authentication.md",
-    "coding/Node.js.md",
     "attachments/Pasted image 20241018180133.png",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",
