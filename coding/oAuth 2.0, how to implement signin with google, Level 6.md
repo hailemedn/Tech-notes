@@ -19,7 +19,8 @@ tags:[[web]] [[backend]] [[security]]
 - revoke access from the account (google/facebook).
 
 ## implementation
-see this code on app.js ena teredaw brother  
+- see this code on app.js ena teredaw brother,  
+- also this code include letting users submit secrets and displaying them on the secrets page.  
 https://github.com/hailemedn/Web-Development-Bootcamp-Exercises-and-Projects/tree/main/37%20-%20Authentication%20%26%20Security/Secrets%20-%20Starting%20Code
 
 
