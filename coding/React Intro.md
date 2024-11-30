@@ -14,4 +14,4 @@ tags:[[react]] [[frontend]] [[web]]
 - then it only re-renders that component.
 
 # Reference
-
+[[The Complete 2023 Web Development Bootcamp]]
