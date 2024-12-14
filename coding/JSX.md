@@ -1,5 +1,5 @@
 24.11.30  03.07  
-tags:[[react]] [[web]] [[frontend]]
+tags:[[react]] [[web]] [[frontend]] [[js]]
 
 
 # JSX

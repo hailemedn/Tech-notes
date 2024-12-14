@@ -1,5 +1,5 @@
 24.11.27  22.56  
-tags:[[react]] [[frontend]] [[web]]
+tags:[[react]] [[frontend]] [[web]] [[js]]
 
 
 # React Intro

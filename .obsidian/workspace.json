@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Expression vs Statements in JS.md",
+                "file": "coding/ JS ES6 - Import and export.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expression vs Statements in JS"
+              "title": "JS ES6 - Import and export"
             }
           },
           {
@@ -331,9 +331,13 @@
   },
   "active": "b2d022484ac17989",
   "lastOpenFiles": [
-    "coding/React Intro.md",
+    "coding/React components.md",
+    "coding/ JS ES6 - Import and export.md",
+    "coding/Inline styling for jsx elements.md",
     "coding/Expression vs Statements in JS.md",
+    "coding/JSX attributes and styling elements.md",
     "coding/JSX.md",
+    "coding/React Intro.md",
     "coding/Intermediate JS.md",
     "coding/Level two authentication.md",
     "coding/JS Dom continued.md",
@@ -354,10 +358,6 @@
     "rough/web things to learn.md",
     "rough/Infra temp map.md",
     "templates/full note.md",
-    "coding/Hacking&nbsp101.md",
-    "coding/Hacking-101.md",
-    "coding/Hacking.md",
-    "infra/OS command line, commands.md",
     "attachments/Pasted image 20241018180133.png",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",

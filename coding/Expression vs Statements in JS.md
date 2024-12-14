@@ -1,7 +1,6 @@
 24.11.30  02.59  
 tags:[[js]] [[react]]
 
-
 # Expression vs Statements in JS
 ## Expression
 a code that resolves to or becomes a value
