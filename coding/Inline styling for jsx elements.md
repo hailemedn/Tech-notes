@@ -3,11 +3,6 @@ tags:[[react]] [[web]] [[frontend]] [[js]]
 
 
 # Inline styling for jsx elements
-- when ever we want to inject a JavaScript code into an html element in jsx, we have to use a set of curly braces.
-```jsx
-<h1 style={ }>Hello world</h1>
-```
-
 ## Inline styling
 - the style prop takes a JavaScript object so the code might look weird
 ```jsx

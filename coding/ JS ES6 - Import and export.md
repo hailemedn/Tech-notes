@@ -52,11 +52,13 @@ import PI from './math';
 import { doublePi, triplePi } from './math'
 ```
 
-the name doesn't matter for the default export, but it does for the rest.
+the name doesn't matter for the default export, but it does for the rest. 
+
+the order in which you export them don't matter, just get the names right.
 
 we can also write the above code as
 ```js
-import PI, { doublePi, triplePi } from "./math.js";
+import PI, { triplePi, doublePi } from "./math.js";
 
 ```
 

@@ -1,5 +1,5 @@
 {{Date}}  
-tags:
+tags: 
 
 
 # {{title}}
