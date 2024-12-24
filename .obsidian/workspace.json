@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Inline styling for jsx elements.md",
+                "file": "coding/Conditional rendering using Ternary operator and &&.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inline styling for jsx elements"
+              "title": "Conditional rendering using Ternary operator and &&"
             }
           },
           {
@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/react key.md",
+                "file": "coding/single responsibility principle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react key"
+              "title": "single responsibility principle"
             }
           },
           {
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitignore",
+                "query": "===",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -344,10 +344,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc94e6d3e3cd4dd9",
+  "active": "b2d022484ac17989",
   "lastOpenFiles": [
+    "coding/single responsibility principle.md",
+    "coding/Conditional rendering using Ternary operator and &&.md",
     "coding/Javascript ES6 arrow functions.md",
+    "coding/Inline styling for jsx elements.md",
+    "coding/Intermediate JS.md",
     "coding/react key.md",
+    "coding/conditional statements.md",
+    "source/Courses/The Complete 2023 Web Development Bootcamp.md",
     "coding/Javascript ES6 Map,Filter,Reduce.md",
     "coding/Expression vs Statements in JS.md",
     "coding/mapping data to component.md",
@@ -356,7 +362,6 @@
     "coding/Javascript ES6 Map",
     "coding/Injecting javascript code in html in jsx.md",
     "coding/React props.md",
-    "coding/Inline styling for jsx elements.md",
     "coding/JSX attributes and styling elements.md",
     "coding/JSX.md",
     "coding/React components.md",
@@ -365,16 +370,11 @@
     "coding/ JS ES6 - Import and export.md",
     "templates/full note.md",
     "coding/React Intro.md",
-    "coding/Intermediate JS.md",
     "coding/Level two authentication.md",
     "coding/JS Dom continued.md",
     "coding/JS Dom Manipulation.md",
     "coding/Document Object Model.md",
-    "coding/Advanced JS and Dom manipulation.md",
-    "coding/Pseudocode.md",
     "attachments/Pasted image 20241127230522.png",
-    "tags/react.md",
-    "coding/shortcut for prettier.md",
     "attachments/Pasted image 20241018180133.png",
     "attachments/Pasted image 20241013024548.png",
     "attachments/Pasted image 20241013023104.png",

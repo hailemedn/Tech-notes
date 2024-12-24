@@ -16,7 +16,8 @@ tags: [[react]] [[web]] [[frontend]] [[js]]
         ))}
 ```
 
-
+- used for identify items in a list in react.
+- unique strings used to identify which elements are changed, added or removed from react, allowing for efficient updates to the user interface.
 
 # Reference
-[[The Complete 2023 Web Development Bootcamp]]
+[[The Complete 2023 Web Develodpment Bootcamp]]
