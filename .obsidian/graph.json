@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "react",
+      "query": "js",
       "color": {
         "a": 1,
-        "rgb": 6057983
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1374787102380401,
+  "scale": 0.7492332715966206,
   "close": false
 }

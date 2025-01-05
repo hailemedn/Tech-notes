@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Conditional rendering using Ternary operator and &&.md",
+                "file": "coding/React hooks - useState.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional rendering using Ternary operator and &&"
+              "title": "React hooks - useState"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "===",
+                "query": "let = ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -346,10 +346,23 @@
   },
   "active": "b2d022484ac17989",
   "lastOpenFiles": [
-    "coding/single responsibility principle.md",
-    "coding/Conditional rendering using Ternary operator and &&.md",
-    "coding/Javascript ES6 arrow functions.md",
+    "coding/Destructuring.md",
+    "coding/React hooks - useState.md",
+    "attachments/Pasted image 20250101041451.png",
+    "coding/JS basics.md",
+    "coding/Declarative vs imperative programming.md",
+    "coding/JavaScript Intro.md",
+    "coding/JS Variables.md",
+    "coding/Val.md",
     "coding/Inline styling for jsx elements.md",
+    "coding/State in react.md",
+    "templates/full note.md",
+    "coding/Conditional rendering using Ternary operator and &&.md",
+    "rough/learnings roadmap.md",
+    "rough/Infra temp map.md",
+    "rough/web things to learn.md",
+    "coding/single responsibility principle.md",
+    "coding/Javascript ES6 arrow functions.md",
     "coding/Intermediate JS.md",
     "coding/react key.md",
     "coding/conditional statements.md",
@@ -362,18 +375,6 @@
     "coding/Javascript ES6 Map",
     "coding/Injecting javascript code in html in jsx.md",
     "coding/React props.md",
-    "coding/JSX attributes and styling elements.md",
-    "coding/JSX.md",
-    "coding/React components.md",
-    "coding/Create a react app.md",
-    "coding/using environment variables.md",
-    "coding/ JS ES6 - Import and export.md",
-    "templates/full note.md",
-    "coding/React Intro.md",
-    "coding/Level two authentication.md",
-    "coding/JS Dom continued.md",
-    "coding/JS Dom Manipulation.md",
-    "coding/Document Object Model.md",
     "attachments/Pasted image 20241127230522.png",
     "attachments/Pasted image 20241018180133.png",
     "attachments/Pasted image 20241013024548.png",
@@ -384,7 +385,6 @@
     "Untitled.canvas",
     "attachments/Pasted image 20240919054032.png",
     "attachments/Pasted image 20240919053202.png",
-    "attachments/Pasted image 20240917215915.png",
     "desktop.ini",
     "source/Courses",
     "source/YouTube",

@@ -6,7 +6,7 @@ tags:[[react]] [[web]] [[frontend]] [[js]]
 ## Inline styling
 - the style prop takes a JavaScript object so the code might look weird
 ```jsx
-<h1 style={{color: red}}>Hello world</h1>
+<h1 style={{color: "red"}}>Hello world</h1>
 ```
 
 similar to below code.
