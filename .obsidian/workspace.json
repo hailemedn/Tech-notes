@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/React hooks - useState.md",
+                "file": "coding/JS ES6 Array and Object Destructuring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React hooks - useState"
+              "title": "JS ES6 Array and Object Destructuring"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "let = ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "right": {
     "id": "afbb5abdb7e8cee0",
@@ -346,8 +346,9 @@
   },
   "active": "b2d022484ac17989",
   "lastOpenFiles": [
-    "coding/Destructuring.md",
     "coding/React hooks - useState.md",
+    "coding/JS ES6 Array and Object Destructuring.md",
+    "coding/ JS ES6 - Import and export.md",
     "attachments/Pasted image 20250101041451.png",
     "coding/JS basics.md",
     "coding/Declarative vs imperative programming.md",
@@ -374,7 +375,6 @@
     "coding/Javascript ES6 Map/Filter",
     "coding/Javascript ES6 Map",
     "coding/Injecting javascript code in html in jsx.md",
-    "coding/React props.md",
     "attachments/Pasted image 20241127230522.png",
     "attachments/Pasted image 20241018180133.png",
     "attachments/Pasted image 20241013024548.png",
