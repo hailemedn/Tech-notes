@@ -41,5 +41,5 @@ ReactDOM.render(
 # Reference
 - [[The Complete 2023 Web Development Bootcamp]]
 - https://www.youtube.com/watch?v=WVyCrI1cHi8&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI
-- [[React Intro]]
+- [[01 React Intro]]
 

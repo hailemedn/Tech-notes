@@ -80,4 +80,4 @@ function App() {
 
 # Reference
 [[The Complete 2023 Web Development Bootcamp]]
-[[JS ES6 Array and Object Destructuring]]
+[[20 JS ES6 Array and Object Destructuring]]

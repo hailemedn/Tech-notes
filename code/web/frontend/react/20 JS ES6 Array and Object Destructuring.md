@@ -81,5 +81,29 @@ const { speedStats : { topSpeed: hondaTopSpeed }} = honda;
 ```
 
 
+## default values.
+sometimes when interacting with api's, they might have some missed data. in those cases we can use default values.
+
+```jsx
+const animals = [
+	{
+		name: "garfield",
+		sound: "meow"
+	},
+	{
+		sound: "bark"
+	}
+];
+
+const [cat, dog] = animals;
+
+// if we print name and sound we get airbud, and bark
+// bark bc it was already defined, if it wasn't it will use the default value
+const { name = "airbud", sound = "woof woof"} = dog; 
+
+```
+
+
+
 # Reference
 [[The Complete 2023 Web Development Bootcamp]]

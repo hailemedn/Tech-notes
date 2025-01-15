@@ -4,7 +4,7 @@ tags: [[react]] [[web]] [[frontend]] [[js]]
 
 # react key
 - must be unique
-- we use it when using map/reduce/filter [[Javascript ES6 Map,Filter,Reduce]] , that loop through stuff.
+- we use it when using map/reduce/filter [[12 Javascript ES6 Map,Filter,Reduce]] , that loop through stuff.
 ```js
 {emojipedia.map((emojiTerm) => (
           <Entry
