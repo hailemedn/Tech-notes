@@ -1,5 +1,5 @@
 {{Date}}  
-tags: [[react]] [[web]] [[frontend]] [[js]]
+tags: 
 
 
 # {{title}}
@@ -8,4 +8,4 @@ tags: [[react]] [[web]] [[frontend]] [[js]]
 
 
 # Reference
-[[The Complete 2023 Web Development Bootcamp]]
+

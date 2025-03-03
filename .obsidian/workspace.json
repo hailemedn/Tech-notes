@@ -118,13 +118,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rough/web things to learn.md",
+                "file": "infra/os/OS command line, commands.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "web things to learn"
+              "title": "OS command line, commands"
+            }
+          },
+          {
+            "id": "2459372c24482091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infra/os/OS command line, commands.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS command line, commands"
+            }
+          },
+          {
+            "id": "b3e2dd7b9db972ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infra/noc/IP pool utilization alarms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IP pool utilization alarms"
             }
           },
           {
@@ -203,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -222,7 +279,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -234,7 +292,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "install packag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -344,34 +402,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2d022484ac17989",
+  "active": "b3e2dd7b9db972ae",
   "lastOpenFiles": [
+    "infra/noc/DNS clear cache.md",
+    "infra/noc/IP pool utilization alarms.md",
+    "infra/noc/DNS Trace.md",
+    "templates/full note.md",
+    "2025-02-12.md",
+    "2025-02-08.md",
+    "infra/noc/cell id.md",
+    "code/web/backend/nodejs/Node REPL.md",
+    "infra/noc/Trouble Tickets (TT_s).md",
+    "infra/noc/PS Core nodes.md",
+    "infra/noc/PS Core KPI_s.md",
+    "infra/noc/latency in cmg.md",
+    "infra/noc/KPI from node end.md",
+    "infra/noc/gn links.md",
+    "code/web/backend/security/Authentication & Security.md",
+    "code/web/backend/nodejs/using environment variables.md",
+    "code/web/backend/nodejs/Node.js.md",
+    "code/web/backend/nodejs/ Express.md",
+    "code/web/backend/db/unable to start mongodb.md",
+    "code/web/backend/db/Database intro.md",
+    "rough/web things to learn.md",
     "code/coding interview introduction.md",
     "code/Pseudocode.md",
     "code/shortcut for prettier.md",
     "code/web/frontend/Separation of concern.md",
     "code/web/frontend/react/20 JS ES6 Array and Object Destructuring.md",
-    "code/web/frontend/react/19 React hooks - useState.md",
-    "code/web/frontend/react/18 Declarative vs imperative programming.md",
-    "code/web/frontend/react/17 State in react.md",
-    "code/web/frontend/react/16 Conditional rendering using Ternary operator and &&.md",
-    "code/web/frontend/react/15 single responsibility principle.md",
-    "code/web/frontend/react/14 react key.md",
-    "code/web/frontend/react/13 Javascript ES6 arrow functions.md",
-    "code/web/frontend/react/12 Javascript ES6 Map,Filter,Reduce.md",
-    "code/web/frontend/react/11 mapping data to component.md",
-    "code/web/frontend/react/10 Injecting javascript code in html in jsx.md",
-    "code/web/frontend/react/09 React props.md",
-    "code/web/frontend/react/08 Create a react app.md",
-    "code/web/frontend/react/07 JS ES6 - Import and export.md",
-    "code/web/frontend/react/06 React components.md",
-    "code/web/frontend/react/05 Inline styling for jsx elements.md",
-    "code/web/frontend/react/04 JSX attributes and styling elements.md",
-    "code/web/frontend/react/03 JSX.md",
-    "code/web/frontend/react/02 Expression vs Statements in JS.md",
-    "code/web/frontend/react/01 React Intro.md",
-    "code/android/linear layout vs relative layout.md",
-    "code/android/file based resource names error.md",
     "infra/os",
     "infra/noc",
     "code/web/frontend/webDesign",
