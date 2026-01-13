@@ -10,7 +10,7 @@ Abhinav -> monthly report -> total throughput -> configure slotwise, 8 days -> e
 
 ### Date
 =INT(A3)
-A3 -> value of Period start time
+- A3 -> value of Period start time
 
 ### time
 =MOD(A3,1)
