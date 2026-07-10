@@ -1,3 +1,10 @@
+CMG CMDs
+
+DISPLAY CURRENTTIME  -> DISPLAYS TIME WITH EVERY COMMAND AFTER 
+environment time-stamp 
+
+
+
 TRACE FOR ALL INTERFACE/ UE'S
 debug mobile-gateway call-insight all-ues profile "all-interface"  
 debug mobile-gateway call-insight all-ues profile "all-ue" 
