@@ -1,0 +1,120 @@
+CMM CMDs
+
+ALARM DEFINITION ON CMM 
+cmm alarm definition list | grep Lss_externalLinkDown 
+cmm alarm definition show 112 
+
+
+CHECK RAISE AND CANCEL TIME IN NODE END 
+cmm alarm history list --period 1h | grep CmmPapsApplicationSafetyNetBreach 
+cmm alarm history list --period 1h 
+cmm alarm history list --period 2h | grep CmmPapsApplicationSafetyNetBreach 
+
+
+
+
+
+CREATE TRACE WITHOUT DISABLING ON CMM 
+cmm callTraceJob list | grep 636020114623587  
+cmm callTraceJob show imsi~636020116025273 | grep trace 
+cmm traceData create --imsi 636020116025273 --traceID 682 
+
+ 
+CMM TRACE 
+
+ENABLE 
+cmm callTraceJob create --userIdentity imsi --digits 636020126793144 
+
+
+DISABLE 
+cmm callTraceJob delete --userIdentity imsi --digits 636020129400134 
+
+ 
+CMM BASIC PROFILE CHECK 
+cmm subscriber show --msisdn 251799100252 
+
+ 
+FIND IMSI 
+cmm subscriber show --msisdn 251799192843| grep imsi 
+
+
+PURGE 
+cmm subscriber delete --imsi 636020103691056 
+
+
+
+
+PING AND TRACEROUTE FOR GN IP'S 
+
+MDC1 
+cmm nbiTraceroute list --trSourceIp 102.213.71.100 --trTarget 80.87.92.55  
+cmm nbiPing list --pingSourceIp 102.213.71.100 --pingTarget 80.87.92.55     
+
+cmm nbiTraceroute list --trSourceIp 102.213.71.100 --trTarget 80.87.92.117  
+cmm nbiPing list --pingSourceIp 102.213.71.100 --pingTarget 80.87.92.117 
+
+GET SOURCE IP FOR GN
+cmm serviceIp list | grep GN
+
+SOURCE IP'S 
+
+MDC1 CMM TA01 
+102.213.71.100, 102.213.71.101 
+
+MDC1 CMM TA02  
+102.213.71.108, 102.213.71.109 
+
+ 
+
+ 
+LASTPCMD RESULTS FROM A PARTICULAR TIME BACKWARDS TO A SET MINUTES 
+/opt/app/bin/lastPcmd -t "2025-09-25 2:00:" -m 15 
+
+CHECK IF ANY IMSI'S ARE AFFECTED BY ERRORS INCREASED FROM LASTPCMD RESULTS (FORWARD FROM SET TIME) 
+gzip -c -d /data-pcmd/2025-11-17.21* | /opt/app/bin/pcmdShow imsi_all procId 2 cfcq 207 scfcq 126   
+
+ 
+
+
+
+CHECK OPERSTATUS OF CG  
+cmm cgInfo list 
+
+ 
+
+ 
+TO GET CORRUPTED IMSI'S WHEN IU AND GB ATTACH SR DEGRADE. 
+zstd -c -d /data-pcmd/2026-05-21.15:*.SGSNpcmd.zst | grep -i ";3;404;2B;22;" |awk -F ";" '{print $15 }' 
+
+ 
+
+ 
+
+GET CURRENT SUBSCRIBER COUNT 
+
+4G 
+date;cmm subscriber count --emmState registered 
+
+2G/3G 
+date;cmm subscriber count --filterType attachedPerPapsPerRat 
+
+ 
+
+
+
+CHECK RNC – HUAWEI OR NOKIA 
+
+
+M3UA links state 
+cmm m3uaLinkInfo list 
+
+M3UA linkset status 
+cmm m3uaLinkSetInfo list --network NA0 
+
+ 
+
+ 
+
+ 
+
+     
