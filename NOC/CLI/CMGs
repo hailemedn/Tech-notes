@@ -1,0 +1,33 @@
+TRACE FOR ALL INTERFACE/ UE'S
+debug mobile-gateway call-insight all-ues profile "all-interface"  
+debug mobile-gateway call-insight all-ues profile "all-ue" 
+
+ 
+
+
+
+PRIVATE IP POOL UTILIZATION  // ON UPS 
+show router [1000,1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013] ip-local-pool-stats 
+
+ 
+
+CPU UTILIZATION FOR EACH VM'S ON NODE (CHECK WHEN THERE IS A SPIKE ON VM'S CPU UTILIZATION FROM NETACT) 
+show mobile-gateway ism-mg cpu 
+
+ 
+CHECK THE CPU STATUS FROM NODE END IF YOU SEE ANY SPIKE FROM NETACT FOR SPECIFIC VM
+show vm 7 virtual fp 
+
+SEE VM / MGGRP 
+show mobile-gateway system 
+
+
+
+
+GENERATE TS FILES 
+admin tech-support 
+
+
+
+CHECK GA INTERFACE STATUS WHEN mobgwsysgrpwritecdrtocfalarm ALARMS APPEAR OR ANYTHING RELATING WITH CG 
+show mobile-gateway pdn ref-point-peers ga 
