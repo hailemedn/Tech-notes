@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infra/noc/IP pool utilization alarms.md",
+                "file": "NOC/Notes/00 Add test note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +181,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IP pool utilization alarms"
+              "title": "00 Add test note"
             }
           },
           {
@@ -280,7 +280,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -317,7 +319,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 298.8333435058594
   },
   "right": {
     "id": "afbb5abdb7e8cee0",
@@ -394,6 +396,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -404,32 +407,32 @@
   },
   "active": "b3e2dd7b9db972ae",
   "lastOpenFiles": [
-    "infra/noc/DNS clear cache.md",
-    "infra/noc/IP pool utilization alarms.md",
-    "infra/noc/DNS Trace.md",
-    "templates/full note.md",
+    "templates/Note.md",
+    "NOC/Notes/00 Add test note.md",
+    "NOC/Notes/00 Add Test note.md",
     "2025-02-12.md",
+    "code/web/github/Git, Github - version control.md",
+    "code/web/github/adding github remote access using the terminal.md",
+    "source/Courses/The Complete 2023 Web Development Bootcamp.md",
+    "rough/web things to learn.md",
+    "rough/learnings roadmap.md",
+    "rough/Infra temp map.md",
+    "infra/os/OS command line, commands.md",
+    "NOC/Notes/07 IP Classes overview.md",
+    "NOC/Steps/Check BGP flaps.MD",
+    "NOC/Notes/02 ECM and EMM.md",
+    "NOC/Notes/03 Excel Basics.md",
+    "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+    "NOC/Notes/05 Sy failure causes Threshold.md",
+    "NOC/Notes/06 TAC, LAC.md",
+    "infra/noc/IP pool utilization alarms.md",
+    "infra/noc/DNS clear cache.md",
+    "infra/noc/DNS Trace.md",
     "2025-02-08.md",
     "infra/noc/cell id.md",
     "code/web/backend/nodejs/Node REPL.md",
     "infra/noc/Trouble Tickets (TT_s).md",
     "infra/noc/PS Core nodes.md",
-    "infra/noc/PS Core KPI_s.md",
-    "infra/noc/latency in cmg.md",
-    "infra/noc/KPI from node end.md",
-    "infra/noc/gn links.md",
-    "code/web/backend/security/Authentication & Security.md",
-    "code/web/backend/nodejs/using environment variables.md",
-    "code/web/backend/nodejs/Node.js.md",
-    "code/web/backend/nodejs/ Express.md",
-    "code/web/backend/db/unable to start mongodb.md",
-    "code/web/backend/db/Database intro.md",
-    "rough/web things to learn.md",
-    "code/coding interview introduction.md",
-    "code/Pseudocode.md",
-    "code/shortcut for prettier.md",
-    "code/web/frontend/Separation of concern.md",
-    "code/web/frontend/react/20 JS ES6 Array and Object Destructuring.md",
     "infra/os",
     "infra/noc",
     "code/web/frontend/webDesign",

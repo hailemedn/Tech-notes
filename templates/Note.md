@@ -1,11 +1,9 @@
 {{Date}}  
 tags: 
-
-
 # {{title}}
 
 
 
 
-# Reference
+
 
