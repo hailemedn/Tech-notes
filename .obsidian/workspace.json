@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOC/Notes/00 Add test note.md",
+                "file": "code/web/github/adding github remote access using the terminal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +181,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 Add test note"
+              "title": "adding github remote access using the terminal"
             }
           },
           {
@@ -407,12 +407,12 @@
   },
   "active": "b3e2dd7b9db972ae",
   "lastOpenFiles": [
-    "templates/Note.md",
-    "NOC/Notes/00 Add test note.md",
-    "NOC/Notes/00 Add Test note.md",
-    "2025-02-12.md",
     "code/web/github/Git, Github - version control.md",
     "code/web/github/adding github remote access using the terminal.md",
+    "NOC/Notes/00 Add test note.md",
+    "templates/Note.md",
+    "NOC/Notes/00 Add Test note.md",
+    "2025-02-12.md",
     "source/Courses/The Complete 2023 Web Development Bootcamp.md",
     "rough/web things to learn.md",
     "rough/learnings roadmap.md",
