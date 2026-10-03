@@ -161,12 +161,12 @@
             }
           },
           {
-            "id": "b3e2dd7b9db972ae",
+            "id": "fc94e6d3e3cd4dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/web/github/adding github remote access using the terminal.md",
+                "file": "NOC/Notes/00 Roaming scenario.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,22 +181,185 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "adding github remote access using the terminal"
+              "title": "00 Roaming scenario"
             }
           },
           {
-            "id": "fc94e6d3e3cd4dd9",
+            "id": "8b0da6773c223074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/single responsibility principle.md",
+                "file": "NOC/Notes/02 ECM and EMM.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "single responsibility principle"
+              "title": "02 ECM and EMM"
+            }
+          },
+          {
+            "id": "37133dabc53f1e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOC/Notes/03 Excel Basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03 Excel Basics"
+            }
+          },
+          {
+            "id": "52c933e8da5a71c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04 Gy and Sy failure cause to watch out for"
+            }
+          },
+          {
+            "id": "d971ae3821689bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04 Gy and Sy failure cause to watch out for"
+            }
+          },
+          {
+            "id": "a149e676d6bdffdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOC/Notes/07 IP Classes overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "07 IP Classes overview"
+            }
+          },
+          {
+            "id": "ebcc0f358fb34507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags/cmg.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cmg"
+            }
+          },
+          {
+            "id": "089d5b8323e84d2f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "dc6c2476875e12db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/YT/00 Az Chike no rest/00 FB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00 FB"
             }
           },
           {
@@ -260,7 +423,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -294,7 +457,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "install packag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -319,7 +482,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.8333435058594
+    "width": 200
   },
   "right": {
     "id": "afbb5abdb7e8cee0",
@@ -405,44 +568,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e2dd7b9db972ae",
+  "active": "dc6c2476875e12db",
   "lastOpenFiles": [
-    "code/web/github/Git, Github - version control.md",
+    "tags/yt.md",
+    "Projects/YT/00 Az Chike no rest/00 FB.md",
+    "Projects/YT/00 Az Chike no rest",
+    "Projects/YT",
+    "Projects",
+    "New folder",
+    "YT/00 Az Chike no rest/00 FB.md",
+    "YT/00 Az Chike no rest",
+    "YT",
+    "Untitled.base",
+    "tags/npc.md",
+    "NOC/Notes/07 IP Classes overview.md",
+    "NOC/Notes/06 TAC, LAC.md",
+    "NOC/Notes/05 Sy failure causes Threshold.md",
+    "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+    "NOC/Notes/03 Excel Basics.md",
+    "NOC/Notes/02 ECM and EMM.md",
+    "NOC/Notes/01 Historical context.md",
+    "NOC/Notes/00 Roaming scenario.md",
+    "tags/cmm.md",
+    "tags/cmg.md",
+    "tags/networking.md",
+    "tags/excel.md",
+    "tags/ps.md",
+    "infra/noc/00 Total data throughput comparison.md",
     "code/web/github/adding github remote access using the terminal.md",
+    "code/web/github/Git, Github - version control.md",
     "NOC/Notes/00 Add test note.md",
     "templates/Note.md",
     "NOC/Notes/00 Add Test note.md",
     "2025-02-12.md",
     "source/Courses/The Complete 2023 Web Development Bootcamp.md",
-    "rough/web things to learn.md",
-    "rough/learnings roadmap.md",
-    "rough/Infra temp map.md",
-    "infra/os/OS command line, commands.md",
-    "NOC/Notes/07 IP Classes overview.md",
-    "NOC/Steps/Check BGP flaps.MD",
-    "NOC/Notes/02 ECM and EMM.md",
-    "NOC/Notes/03 Excel Basics.md",
-    "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
-    "NOC/Notes/05 Sy failure causes Threshold.md",
-    "NOC/Notes/06 TAC, LAC.md",
-    "infra/noc/IP pool utilization alarms.md",
-    "infra/noc/DNS clear cache.md",
-    "infra/noc/DNS Trace.md",
-    "2025-02-08.md",
-    "infra/noc/cell id.md",
-    "code/web/backend/nodejs/Node REPL.md",
-    "infra/noc/Trouble Tickets (TT_s).md",
-    "infra/noc/PS Core nodes.md",
     "infra/os",
     "infra/noc",
     "code/web/frontend/webDesign",
-    "code/android/kotlin",
-    "code/android",
-    "code/web/frontend/css",
-    "code/web/github",
-    "code/web/backend/db",
-    "code/web/backend/nodejs",
-    "code/web/frontend/js",
     "attachments/Pasted image 20250101041451.png",
     "attachments/Pasted image 20241127230522.png",
     "attachments/Pasted image 20241018180133.png",

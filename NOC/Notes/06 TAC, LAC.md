@@ -1,5 +1,5 @@
 2026-09-22
-Tags: #cmm #ps 
+Tags: [[cmm]] [[ps]] [[noc]]
 
 # 06 TAC, LAC
 

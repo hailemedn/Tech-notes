@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "js",
+      "query": "noc",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14160659
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7492332715966206,
+  "scale": 0.16736915472836095,
   "close": false
 }

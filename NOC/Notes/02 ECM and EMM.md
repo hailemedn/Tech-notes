@@ -1,5 +1,5 @@
 2026-08-13
-Tags: #cmm #ps
+Tags: [[cmm]] [[ps]] [[noc]]
 
 # ECM and EMM
 

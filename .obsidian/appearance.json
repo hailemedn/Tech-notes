@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "textFontFamily": "Hack",
   "interfaceFontFamily": "",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "theme": "obsidian"
 }

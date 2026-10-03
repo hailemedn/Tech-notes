@@ -1,5 +1,5 @@
 2026-09-23
-Tags: #networking #ps
+Tags: [[networking]] [[ps]] [[noc]] 
 
 # 07 IP Classes overview
 

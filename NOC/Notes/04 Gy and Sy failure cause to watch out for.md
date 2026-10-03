@@ -1,5 +1,5 @@
 2026-08-19
-Tags: #npc #cmg
+Tags: [[npc]] [[cmg]] [[noc]]
 
 # 04 Gy and Sy failure cause to watch out for
 

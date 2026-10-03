@@ -1,5 +1,5 @@
 2026-08-12
-Tags: #ps
+Tags: [[ps]] [[noc]]
 
 # Historical context
 

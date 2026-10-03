@@ -1,5 +1,5 @@
 2026-08-15
-Tags:  #excel
+Tags:  [[excel]] [[noc]]
 
 # Excel Basics
 
