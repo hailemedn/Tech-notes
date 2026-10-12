@@ -1,0 +1,17 @@
+TO CHECK MPESA
+
+TO CHECK DNS QUERY FOR API.SAFARICOM FOR MPESA	 
+dns.qry.name contains api.safaricom.et
+
+TO CHECK HANDSHARE BETWEEN UE AND RESOLVED IP OF SERVER(MPESA,EKYC)
+ip.addr == 102.218.49.29
+
+To check Client hello , server hello (TLS Handshake)
+_ws.col.protocol == "TLSv1.3"
+
+TO CHECK HEADER ENRICHMENT QUERY AND RESPONSE
+dns.qry.name contains header
+
+Header enrichment happened properly
+http
+

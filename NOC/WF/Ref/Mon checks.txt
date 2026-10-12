@@ -1,0 +1,21 @@
+
+Alarms
+KPIs
+Gy failures
+Sy failures
+Csd PAM, SM MEs
+lastPcmd
+updates?
+Filling up ongoing issues
+
+
+
+OnGoing
+- cmg netact alarms refreshing issue
+- netact without nsp kpi's
+- s8
+- 
+
+
+
+

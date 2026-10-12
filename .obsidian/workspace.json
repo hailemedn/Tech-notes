@@ -344,7 +344,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/YT/00 Az Chike no rest/00 FB.md",
+                "file": "ReseachInfo/00 Typing lessons tools.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -359,7 +359,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 FB"
+              "title": "00 Typing lessons tools"
+            }
+          },
+          {
+            "id": "9848babeb95ce37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04 Gy and Sy failure cause to watch out for"
             }
           },
           {
@@ -423,7 +447,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -568,20 +592,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc6c2476875e12db",
+  "active": "9848babeb95ce37a",
   "lastOpenFiles": [
-    "tags/yt.md",
-    "Projects/YT/00 Az Chike no rest/00 FB.md",
-    "Projects/YT/00 Az Chike no rest",
-    "Projects/YT",
-    "Projects",
-    "New folder",
-    "YT/00 Az Chike no rest/00 FB.md",
-    "YT/00 Az Chike no rest",
-    "YT",
-    "Untitled.base",
-    "tags/npc.md",
+    "NOC/WF/PS Core Links and Passwords.xlsx",
+    "NOC/WF/VPN connection - Partner Guide (1) 1.pdf",
+    "NOC/WF/Sept 2026 STANDBY ROSTER SCHEDULE.xlsx",
+    "NOC/WF/Sep L1 Availability 1 (1) 1.xlsx",
+    "NOC/WF/S8 IP Detail 1.xlsx",
+    "NOC/WF/PS Core impact during NCC Upgrade activity [Autosaved].pptx",
+    "NOC/WF/PS Capacity slide_wk24.pptx",
+    "NOC/WF/Oct Roaster.xlsx",
+    "NOC/WF/KPI counters.xlsx",
+    "NOC/WF/Health check with Remark (2).xlsx",
+    "NOC/WF/GRX IPs.xlsx",
+    "NOC/WF/Docs/CS Core/4G + VoLTE/IMS Network.JPG",
+    "NOC/WF/Docs/PS core/Volte Architecture.PNG",
+    "Projects/00 YT/01 Az Chike no rest/00 FB.md",
+    "Projects/00 YT/00 School/00 YT Shorts.md",
+    "code/web/frontend/Separation of concern.md",
     "NOC/Notes/07 IP Classes overview.md",
+    "ReseachInfo/00 Typing lessons tools.md",
+    "tags/ResearchInfo.md",
+    "tags/yt.md",
+    "YT/00 Az Chike no rest/00 FB.md",
+    "tags/npc.md",
     "NOC/Notes/06 TAC, LAC.md",
     "NOC/Notes/05 Sy failure causes Threshold.md",
     "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
@@ -598,13 +632,6 @@
     "code/web/github/adding github remote access using the terminal.md",
     "code/web/github/Git, Github - version control.md",
     "NOC/Notes/00 Add test note.md",
-    "templates/Note.md",
-    "NOC/Notes/00 Add Test note.md",
-    "2025-02-12.md",
-    "source/Courses/The Complete 2023 Web Development Bootcamp.md",
-    "infra/os",
-    "infra/noc",
-    "code/web/frontend/webDesign",
     "attachments/Pasted image 20250101041451.png",
     "attachments/Pasted image 20241127230522.png",
     "attachments/Pasted image 20241018180133.png",
@@ -613,8 +640,6 @@
     "attachments/Pasted image 20241013021500.png",
     "attachments/Pasted image 20241011224900.png",
     "attachments/Pasted image 20240928142159.png",
-    "Untitled.canvas",
-    "attachments/Pasted image 20240919054032.png",
-    "attachments/Pasted image 20240919053202.png"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,17 @@
+CHECK APN RESOLUTION - TAFQDN ALARM 
+DIG FROM CMM TO DNS
+
+cmm serviceIp list | grep DNS
+cmm serviceStatus list
+ssh ipds   //use active IPDS
+dig -b 10.43.33.38 @10.43.32.4 apn
+
+
+mdc1 ta01
+dig -b 10.43.33.38 @10.43.32.4 s11.sgwnodes.saf.epc.mnc002.mcc636.3gppnetwork.org srv
+
+
+
+MME Name			Primary IP Address	Secondary IP Address	 	DNS server Name	Primary IP Address	Secondary IP Address
+mdc1-nk-cmm-ta01	10.43.33.38			10.43.33.39	 	 							10.43.32.4			10.44.32.4
+																					MDC1_ GNDNS01		MDC2_ GNDNS01

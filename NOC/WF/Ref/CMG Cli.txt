@@ -1,0 +1,88 @@
+CMG CMDs
+
+DISPLAY CURRENTTIME  -> DISPLAYS TIME WITH EVERY COMMAND AFTER 
+environment time-stamp 
+
+
+CMG TRACE 
+
+START
+debug mobile-gateway call-insight ue imsi [636020126793144,636020103680999] profile "ue_trace" 
+
+STOP
+debug mobile-gateway call-insight no ue imsi [636020114923159,636020103680999] 
+
+ 
+SEE ENABLED TRACES ON CMG 
+show mobile-gateway call-insight ue 
+
+ 
+SEE WHERE A NUMBER IS LATCHED ON CMG 
+show mobile-gateway pdn pdn-context imsi 636020114623587 
+
+CHECK PACKAGES and FUP on CPs
+show mobile-gateway pdn bearer-context msisdn 251717172583 detail | match PRB  
+
+//CHECK GY ERRORS FOR A SPECIFIC RATING GROUP
+show mobile-gateway pdn bearer-context bearer 5 acct gy imsi 636020114623587 detail
+
+  
+
+GX AND GY TRACE ON CP ONLY 
+debug mobile-gateway call-insight all-ues profile "gy-interface"                               
+debug mobile-gateway call-insight all-ues profile "gx-interface"   
+
+TRACE FOR ALL INTERFACE/ UE'S
+debug mobile-gateway call-insight all-ues profile "all-interface"  
+debug mobile-gateway call-insight all-ues profile "all-ue" 
+
+ 
+
+
+
+PRIVATE IP POOL UTILIZATION  // ON UPS 
+show router [1000,1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013] ip-local-pool-stats 
+
+ 
+
+CPU UTILIZATION FOR EACH VM'S ON NODE (CHECK WHEN THERE IS A SPIKE ON VM'S CPU UTILIZATION FROM NETACT) 
+show mobile-gateway ism-mg cpu 
+
+ 
+CHECK THE CPU STATUS FROM NODE END IF YOU SEE ANY SPIKE FROM NETACT FOR SPECIFIC VM
+show vm 7 virtual fp 
+
+SEE VM / MGGRP 
+show mobile-gateway system 
+
+
+CHECK BGP FLAPS
+show router bgp summary all
+show router 1001 bgp summary     // replace 1001 with svc
+show router 1001 bgp neighbor    // press tab to get neighbors
+show router 1001 bgp neighbor 4200010002 | match State
+show router 1001 bgp neighbor 4200010003 | match State                  
+
+
+GENERATE TS FILES 
+admin tech-support 
+
+
+
+CHECK GA INTERFACE STATUS WHEN mobgwsysgrpwritecdrtocfalarm ALARMS APPEAR OR ANYTHING RELATING WITH CG 
+show mobile-gateway pdn ref-point-peers ga 
+
+//FOR CSD RELATED
+show mobile-gateway pdn ref-point-peers s6b
+ 
+
+CHECK GY FAILURES
+show mobile-gateway pdn ref-point-stats gy failure-codes aggregate
+show mobile-gateway pdn ref-point-stats gy aggregate failure-codes
+
+GX FAILURES
+show mobile-gateway pdn ref-point-stats failure-codes aggregate gx
+
+
+CLEAR GY FAILURES FROM NODE
+clear mobile-gateway pdn 1 path-mgmt-stats gy

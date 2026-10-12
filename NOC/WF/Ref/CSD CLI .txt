@@ -1,0 +1,34 @@
+LOG INTO CSD
+
+[pamrw@MDC1NCSD01-oame-0 ~]$ sudo -i	 	 	 	 
+[root@MDC1NCSD01-oame-0 ~]# healthMachines	 	 	 	 
+		HostName             HA Status  Service Status	 	 	 	 
+		--------             ---------  --------------	 	 	 	 
+		MDC1NCSD01-db-0      (NA)       OK	 	 	 	 
+		MDC1NCSD01-db-1      (NA)       OK	 	 	 	 
+		MDC1NCSD01-db-2      (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeapp-0  (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeapp-1  (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeapp-2  (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeapp-3  (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeapp-4  (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeapp-5  (NA)       OK	 	 	 	 
+		MDC1NCSD01-ddeio-0   (STANDBY)  OK	 	 	 	 
+		MDC1NCSD01-ddeio-1   (ACTIVE)   OK	 	 	 	 
+		MDC1NCSD01-oame-0    (ACTIVE)   OK	 	 	 	 
+		MDC1NCSD01-oame-1    (STANDBY)  OK	 	 	 	 
+
+[root@MDC1NCSD01-oame-0 ~]# ssh MDC1NCSD01-ddeio-1		//ssh to any one of the listed healthMachines
+
+PING
+ping -I source IP destination IP
+
+
+TO CHECK ACTIVE ALARMS ON NODE
+aladmin list
+
+
+TO TAKE THE GATEWAY CONFIGURED ON THE SOURCE
+tracepath -n 10.44.84.68	 // IP which ever node we are observing latency towards.
+
+	

@@ -1,0 +1,20 @@
+# RATING GROUP
+
+
+implies different kinds of usages, along with cc-total octets.
+
+201 - tiktok bundle 
+200 - airtime 
+100 - doesn't provide any info
+104 - EKYC
+106 - MPESA
+
+
+208 - Opera Mini
+RG-205(WhatsApp)
+RG-206(YouTube)
+RG-204(Instagram)
+RG-203(Facebook)
+RG-202(Telegram)
+RG-201(TikTok)
+RG-200(for normal data bundle)
