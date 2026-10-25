@@ -11,11 +11,16 @@ Filling up ongoing issues
 
 
 OnGoing
-- cmg netact alarms refreshing issue
 - netact without nsp kpi's
-- s8
-- 
+- s8	
+- bios upgrade for remaining VMs
 
+
+
+UN
+
+- mpesa check traces, concile with beza mail
+- close cc
 
 
 

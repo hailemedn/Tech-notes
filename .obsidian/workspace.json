@@ -368,7 +368,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+                "file": "Projects/00 YT/000 Journey Tracer/00 JT0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -383,7 +383,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04 Gy and Sy failure cause to watch out for"
+              "title": "00 JT0"
             }
           },
           {
@@ -467,7 +467,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -594,6 +594,17 @@
   },
   "active": "9848babeb95ce37a",
   "lastOpenFiles": [
+    "templates/JTracker.md",
+    "Projects/00 YT/000 Journey Tracer/00 JT0.md",
+    "templates/Note.md",
+    "Projects/00 YT/00 School/02 Way forward for Yt shorts.md",
+    "Projects/00 YT/00 School/00 YT Shorts.md",
+    "Projects/00 YT/00 School/03 Schedule for shorts channel.md",
+    "tags/JT.md",
+    "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
+    "Projects/00 YT/000 Journey Tracer",
+    "NOC/Ref/fqdn.txt",
+    "NOC/Notes/00 Roaming scenario.md",
     "NOC/Ref/Trouble Tickets (TT's).txt",
     "NOC/Ref/To check MPESA.txt",
     "NOC/Ref/SETTING UP WIRESHARK.txt",
@@ -602,13 +613,9 @@
     "NOC/Ref/Mon checks.txt",
     "NOC/Ref/IMSIs.txt",
     "NOC/Ref/CSD CLI .txt",
-    "NOC/Ref/CMM Cli.txt",
-    "NOC/Ref/CMM and CMG Commands.xlsx",
-    "NOC/Ref/CMG Cli.txt",
     "NOC/WF/Docs/CS Core/4G + VoLTE/IMS Network.JPG",
     "NOC/WF/Docs/PS core/Volte Architecture.PNG",
     "Projects/00 YT/01 Az Chike no rest/00 FB.md",
-    "Projects/00 YT/00 School/00 YT Shorts.md",
     "code/web/frontend/Separation of concern.md",
     "NOC/Notes/07 IP Classes overview.md",
     "ReseachInfo/00 Typing lessons tools.md",
@@ -618,20 +625,13 @@
     "tags/npc.md",
     "NOC/Notes/06 TAC, LAC.md",
     "NOC/Notes/05 Sy failure causes Threshold.md",
-    "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
     "NOC/Notes/03 Excel Basics.md",
     "NOC/Notes/02 ECM and EMM.md",
     "NOC/Notes/01 Historical context.md",
-    "NOC/Notes/00 Roaming scenario.md",
     "tags/cmm.md",
     "tags/cmg.md",
     "tags/networking.md",
     "tags/excel.md",
-    "tags/ps.md",
-    "infra/noc/00 Total data throughput comparison.md",
-    "code/web/github/adding github remote access using the terminal.md",
-    "code/web/github/Git, Github - version control.md",
-    "NOC/Notes/00 Add test note.md",
     "attachments/Pasted image 20250101041451.png",
     "attachments/Pasted image 20241127230522.png",
     "attachments/Pasted image 20241018180133.png",
