@@ -368,6 +368,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "templates/FeedBack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FeedBack"
+            }
+          },
+          {
+            "id": "8dbf4f9ab2bdd601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Projects/00 YT/000 Journey Tracer/00 JT0.md",
                 "mode": "source",
                 "source": false,
@@ -447,7 +471,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -592,19 +616,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9848babeb95ce37a",
+  "active": "8dbf4f9ab2bdd601",
   "lastOpenFiles": [
-    "templates/JTracker.md",
-    "Projects/00 YT/000 Journey Tracer/00 JT0.md",
     "templates/Note.md",
-    "Projects/00 YT/00 School/02 Way forward for Yt shorts.md",
-    "Projects/00 YT/00 School/00 YT Shorts.md",
-    "Projects/00 YT/00 School/03 Schedule for shorts channel.md",
+    "templates/JTracker.md",
+    "templates/FeedBack.md",
+    "Projects/00 YT/000 Journey Tracer/00 JT0.md",
+    "Projects/00 YT/00 FB/00 FB _Az Chike.md",
+    "tags/FB.md",
+    "NOC/Notes/02 ECM and EMM.md",
+    "NOC/Notes/01 Historical context.md",
+    "NOC/Notes/00 Roaming scenario.md",
+    "NOC/Notes/06 TAC, LAC.md",
+    "NOC/Notes/07 IP Classes overview.md",
+    "ReseachInfo/00 Typing lessons tools.md",
+    "Projects/00 YT/00 School/02 Schedule for shorts channel.md",
+    "Projects/00 YT/00 School/01 YT Shorts.md",
+    "Projects/00 YT/00 School/00 Way forward for Yt shorts.md",
+    "Projects/00 YT/00 School/00 Skills to dev.md",
     "tags/JT.md",
     "NOC/Notes/04 Gy and Sy failure cause to watch out for.md",
     "Projects/00 YT/000 Journey Tracer",
     "NOC/Ref/fqdn.txt",
-    "NOC/Notes/00 Roaming scenario.md",
     "NOC/Ref/Trouble Tickets (TT's).txt",
     "NOC/Ref/To check MPESA.txt",
     "NOC/Ref/SETTING UP WIRESHARK.txt",
@@ -615,23 +648,14 @@
     "NOC/Ref/CSD CLI .txt",
     "NOC/WF/Docs/CS Core/4G + VoLTE/IMS Network.JPG",
     "NOC/WF/Docs/PS core/Volte Architecture.PNG",
-    "Projects/00 YT/01 Az Chike no rest/00 FB.md",
     "code/web/frontend/Separation of concern.md",
-    "NOC/Notes/07 IP Classes overview.md",
-    "ReseachInfo/00 Typing lessons tools.md",
     "tags/ResearchInfo.md",
     "tags/yt.md",
     "YT/00 Az Chike no rest/00 FB.md",
     "tags/npc.md",
-    "NOC/Notes/06 TAC, LAC.md",
     "NOC/Notes/05 Sy failure causes Threshold.md",
     "NOC/Notes/03 Excel Basics.md",
-    "NOC/Notes/02 ECM and EMM.md",
-    "NOC/Notes/01 Historical context.md",
     "tags/cmm.md",
-    "tags/cmg.md",
-    "tags/networking.md",
-    "tags/excel.md",
     "attachments/Pasted image 20250101041451.png",
     "attachments/Pasted image 20241127230522.png",
     "attachments/Pasted image 20241018180133.png",

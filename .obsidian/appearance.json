@@ -1,6 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "textFontFamily": "Hack",
+  "textFontFamily": "Hack,Courier New,Cascadia Mono,Courier",
   "interfaceFontFamily": "",
   "baseFontSize": 14,
   "theme": "obsidian"
