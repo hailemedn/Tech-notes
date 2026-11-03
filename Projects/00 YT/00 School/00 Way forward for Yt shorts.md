@@ -6,6 +6,7 @@ tags: [[yt]]
 - [x] Where to get stuff to react to
 - [x] regular schedules
 - [x] find viral clips for yt shorts?
+- [ ] AI tools (Claude).
 
 
 

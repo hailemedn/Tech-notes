@@ -3,7 +3,7 @@ tags: [[yt]]
 # 03 Schedule for shorts channel
 
 - **Upload 1:** 8:30 PM EAT (US Afternoon)
-- **Upload 2:** 1:00 AM EAT (US Prime Evening)
+- **Upload 2:** 1:30 AM EAT (US Prime Evening)
 
 
 

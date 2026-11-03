@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "noc",
+      "query": "yt",
       "color": {
         "a": 1,
         "rgb": 14160659
+      }
+    },
+    {
+      "query": "noc",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "web",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
       }
     }
   ],
