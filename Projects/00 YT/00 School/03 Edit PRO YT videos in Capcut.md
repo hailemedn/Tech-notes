@@ -27,7 +27,18 @@ Stuff to tick
 	- Anton text font
 	- Glitch animation
 
+## Step 9 Music and sound effect
+- Download SFX, to add transition sounds
+- YouTube audio library, for bg music. on YT studios audio library tab
 
+### How to edit videos 10x faster
+- downloaded files, 
+- try out lut
+- and overlays
+
+## Step 10 Export
+- go through the vid one more time for minor adjustments
+- Export
 
 --- 
 
