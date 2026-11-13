@@ -392,7 +392,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/00 YT/000 Journey Tracer/01 JT01.md",
+                "file": "templates/JTracker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -407,7 +407,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01 JT01"
+              "title": "JTracker"
             }
           },
           {
@@ -618,17 +618,22 @@
   },
   "active": "8dbf4f9ab2bdd601",
   "lastOpenFiles": [
+    "Projects/00 YT/00 FB/01 Improvements for shorts.md",
+    "Projects/00 YT/00 FB/00 FB _Az Chike.md",
+    "Projects/00 YT/000 Journey Tracer/01 JT01.md",
+    "Projects/00 YT/000 Journey Tracer/00 JT0.md",
+    "templates/JTracker.md",
+    "Projects/00 YT/000 Journey Tracer/000 JT Overview.md",
+    "Projects/00 YT/00 School/00 Way forward for Yt shorts.md",
+    "Projects/00 YT/00 School/00 Skills to dev.md",
     "Projects/00 YT/00 School/05 Master Capcut color grading.md",
     "Projects/00 YT/00 School/03 Edit PRO YT videos in Capcut.md",
-    "Projects/00 YT/000 Journey Tracer/01 JT01.md",
     "Projects/00 YT/00 School/03 Our own version of YT Editing.md",
     "Projects/00 YT/00 School/02 Schedule for shorts channel.md",
     "Projects/00 YT/00 School/04 High CPM countries.md",
-    "Projects/00 YT/00 FB/00 FB _Az Chike.md",
     "ReseachInfo/00 Typing lessons tools.md",
     "tags/jt.md",
     "tags/frontend.md",
-    "Projects/00 YT/000 Journey Tracer/00 JT0.md",
     "NOC/Notes/07 IP Classes overview.md",
     "NOC/Notes/06 TAC, LAC.md",
     "NOC/Notes/05 Sy failure causes Threshold.md",
@@ -637,14 +642,9 @@
     "NOC/Notes/02 ECM and EMM.md",
     "NOC/Notes/01 Historical context.md",
     "NOC/Notes/00 Roaming scenario.md",
-    "templates/JTracker.md",
-    "Projects/00 YT/00 School/00 Way forward for Yt shorts.md",
-    "Projects/00 YT/00 School/00 Skills to dev.md",
     "Projects/00 YT/000 Journey Tracer/01 JT1",
     "Projects/00 YT/00 School/01 YT Shorts.md",
     "templates/Note.md",
-    "templates/FeedBack.md",
-    "tags/linux.md",
     "Projects/00 YT/000 Journey Tracer",
     "NOC/Ref/fqdn.txt",
     "NOC/Ref/Trouble Tickets (TT's).txt",

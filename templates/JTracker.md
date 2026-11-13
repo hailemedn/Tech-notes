@@ -4,7 +4,7 @@ tags: [[jt]] [[yt]]
 
 ---
 ### 🛠️ Execution Pipeline
-- [ ] P1  Collect 2M, Learn stuff, Plan, Review previous JT, Declutter PC | Start-End: ________ 
+- [ ] P1  `Collect 2M, Learn, Plan, Review previous JT, Weekly YouTube Analytics Review, Declutter PC.`C | Start-End: ________ 
 - [ ] P2  Film 1M, Start Edit | Start-End: ________
 - [ ] P3  Edit 1M, Schedule publish | Start-End: ________
 - [ ] P4  Film 2M, Start Edit | Start-End: ________
@@ -15,7 +15,14 @@ tags: [[jt]] [[yt]]
 ---
 ### 📊 Cycle Summary
 - **Total No. of days:** _____
-- **Reason for delay (>7 days):** ___________________________________
-- **Adjustments for next JT:** ___________________________________
+- **Videos completed:** ____
+- **Videos published/scheduled:** ____
+- **Shorts produced:** ____
+- **Reason for delay (if over 7 days):** ___________________________________
+_________________
 
+### 📊 Cycle Review
+- What worked: ____
+- What slowed me down: ____
+- Adjustment for next JT: ____
 

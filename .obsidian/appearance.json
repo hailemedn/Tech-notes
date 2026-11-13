@@ -3,5 +3,6 @@
   "textFontFamily": "Hack,Courier New,Cascadia Mono,Courier",
   "interfaceFontFamily": "",
   "baseFontSize": 14,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
